@@ -1,0 +1,8 @@
+{
+  "name": "VitalFlow: Emergency Blood Coordination Hub",
+  "description": "A real-time blood shortage alert and donor mobilization system. It features a hospital-facing dashboard to manage emergency requests, monitor inventory, and coordinate logistics. The platform includes an AI chatbot for donor pre-screening and a simulated tele-health feature for virtual coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
