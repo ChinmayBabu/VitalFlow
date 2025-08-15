@@ -93,10 +93,7 @@ src/
 ---
 
 ## 🤝 Contributors
-- *Team Name* – Developed during Hackathon using *Google AI Build*
-- Built by: [Your Names Here]
+- Ancestors – Developed during Hackathon using *Google AI Build*
+- Built by: Chinmay Babu , Sarthak Singh,Kananpreet Singh Mahendra
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License.
