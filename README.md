@@ -64,7 +64,10 @@ A web-based emergency blood donation platform that enables hospitals and blood b
 ---
 
 ## 📸 Screenshots (Optional)
-(Add UI snapshots here for dashboard, donor map, alerts view, etc.)
+<img width="1897" height="966" alt="image" src="https://github.com/user-attachments/assets/02a2e589-3cb4-43ba-95e5-c1fc21fbfc07" />
+<img width="1908" height="967" alt="image" src="https://github.com/user-attachments/assets/4bd0010b-a235-467d-853b-2f9f70bf7c52" />
+<img width="1912" height="967" alt="image" src="https://github.com/user-attachments/assets/66c8430c-eaf8-4a7c-9033-7a0e617d1465" />
+<img width="1907" height="917" alt="image" src="https://github.com/user-attachments/assets/ddb69d2d-1164-4965-a58c-a22ea84ce7aa" />
 
 ---
 
